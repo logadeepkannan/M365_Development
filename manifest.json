@@ -65,7 +65,7 @@
                     "id": "TaskPaneRuntime",
                     "type": "general",
                     "code": {
-                        "page": "https://github.com/logadeepkannan/M365_Development/blob/main/taskpane.html"
+                        "page": "https://localhost:3000/taskpane.html"
                     },
                     "lifetime": "short",
                     "actions": [
@@ -81,7 +81,7 @@
                     "id": "CommandsRuntime",
                     "type": "general",
                     "code": {
-                        "page": "https://github.com/logadeepkannan/M365_Development/blob/main/taskpane.html"
+                        "page": "https://localhost:3000/taskpane.html"
                     },
                     "lifetime": "short",
                     "actions": [
@@ -108,15 +108,15 @@
                                     "icons": [
                                         {
                                             "size": 16,
-                                            "url": "https://github.com/logadeepkannan/M365_Development/blob/main/icon-16.png"
+                                            "url": "https://localhost:3000/assets/icon-16.png"
                                         },
                                         {
                                             "size": 32,
-                                            "url": "https://github.com/logadeepkannan/M365_Development/blob/main/icon-32.png"
+                                            "url": "https://localhost:3000/assets/icon-32.png"
                                         },
                                         {
                                             "size": 80,
-                                            "url": "https://github.com/logadeepkannan/M365_Development/blob/main/icon-80.png"
+                                            "url": "https://localhost:3000/assets/icon-80.png"
                                         }
                                     ],
                                     "controls": [
@@ -127,15 +127,15 @@
                                             "icons": [
                                                 {
                                                     "size": 16,
-                                                    "url": "https://github.com/logadeepkannan/M365_Development/blob/main/icon-16.png"
+                                                    "url": "https://localhost:3000/assets/icon-16.png"
                                                 },
                                                 {
                                                     "size": 32,
-                                                    "url": "https://github.com/logadeepkannan/M365_Development/blob/main/icon-32.png"
+                                                    "url": "https://localhost:3000/assets/icon-32.png"
                                                 },
                                                 {
                                                     "size": 80,
-                                                    "url": "https://github.com/logadeepkannan/M365_Development/blob/main/icon-80.png"
+                                                    "url": "https://localhost:3000/assets/icon-80.png"
                                                 }
                                             ],
                                             "supertip": {
