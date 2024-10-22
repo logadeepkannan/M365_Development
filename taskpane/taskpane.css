@@ -1,0 +1,44 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.ms-welcome__header {
+    text-align: center;
+    /* padding: 5px; */
+    /* background-color: #0078d4; */
+    color: rgb(0, 0, 0);
+}
+
+#projectDropdown {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    outline: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+#projectDropdown:hover {
+    background-color: #f1f1f1;
+}
+
+#projectDropdown:focus {
+    border-color: #0078d4;
+    background-color: #fff;
+}
+
+option {
+    font-size: 16px;
+    padding: 12px;
+    color: #333;
+}
